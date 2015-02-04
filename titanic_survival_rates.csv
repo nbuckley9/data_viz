@@ -1,0 +1,7 @@
+Class,Sex,Died,Survived,Total,P(survived),Measure
+1st,Female,9,134,143, 0.94 , 940.00 
+1st,Male,120,59,179, 0.33 , 330.00 
+2nd,Female,13,94,107, 0.88 , 880.00 
+2nd,Male,148,25,173, 0.14 , 140.00 
+3rd,Female,134,79,213, 0.37 , 370.00 
+3rd,Male,440,58,498, 0.12 , 120.00 
